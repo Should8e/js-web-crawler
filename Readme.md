@@ -9,5 +9,6 @@ It is a part of my path to building better inner web-tools for me and my colleag
 
 ## Usage
 
-- To run test use: `npm test`
+- Install dependencies:   `npm install`
+- To run test use:        `npm test`
 - To run the project use: `npm start <url>`
